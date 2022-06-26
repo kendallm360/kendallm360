@@ -2,6 +2,7 @@
 I am a software Engineer with a background in telecommunications and DOD intelligence. Both industries exposed me to high paced work environments while working on teams which shaped me for my journey as a developer. They also helped show me that technology, and it's capabilities, is what I am most passionate about.
 
 As I progress through life I realize the importance/value of working in an industry that is both personally fulfilling and surrounds you with people who are equally as driven. I am excited to work with and learn from other programmers while building products that positively impact the masses. 
+<br>
 <a href="mailto:mcgreekendall@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a> 
 <a href="https://www.linkedin.com/in/kendall-mcgree/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 
@@ -43,3 +44,14 @@ As I progress through life I realize the importance/value of working in an indus
   <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" />
 </p>
+
+
+## Github Stats
+<div align="center">
+  <a href="https://github.com/kendallm360/github-readme-stats">
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=kendallm360&show_icons=true&theme=dark&hide_border=true"/>
+  </a>
+  <a href="https://github.com/kendallm360/github-readme-stats">
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kendallm360&layout=compact&theme=dark&hide_border=true"/>
+  </a>
+</div>
