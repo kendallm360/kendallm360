@@ -53,9 +53,9 @@ All year I have dedicated myself to learning the skills and practices you will s
 ## Favortie Stock Sectors:
  - Electric/Automated Vehicles 🔋🚙
  - Fintech 🔐
- - Green Energy ♻️♻
- - Crypto 🔐
+ - Green Energy ♻️
  - Real Estate 2.0 🏠
+ - Crypto 🔐
  - Big Data/Cloud Services ☁️
  - Biotech 👩🏼‍🔬
 
