@@ -1,12 +1,11 @@
 ## About Me
 
-All year I have dedicated myself to learning the skills and practices you will see listed here on my profile. I have been loving the process and appreciating the challenge because I know how rewarding the other end of this will be. I am most looking forward to the industry compensating me with my own time back. Once I am comfortable in the first position you put me in I will spend that time engaging in the following interests:
+All year I have dedicated myself to learning the skills and practices you will see listed here on my profile. I have been loving the process and appreciating the challenge because I know how rewarding the other end of this will be. The biggest reward being the the tech space compensating me with my own personal time back. Once I am settled in my first position I will spend that time getting back into in the following interests:
 
  - Investing 📈
  - MMA 🥊
  - Hiking 🥾⛰
  - Restaurant Focused Domestic Travel 🌮
- - Hiking 🥾⛰
  - Bowling 🎳
  - True Crime Documentaries 🍿
  
