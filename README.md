@@ -49,7 +49,7 @@ All year I have dedicated myself to learning the skills and practices you will s
   <img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
 </p>
 
-## Favortie Stock Sectors:
+## Favorite Stock Sectors:
  - Electric/Automated Vehicles 🔋🚙
  - Fintech 🔐
  - Green Energy ♻️
