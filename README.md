@@ -42,12 +42,6 @@ All year I have dedicated myself to learning the skills and practices you will s
   <img src="https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
 </p>
 
-## Favorite Cryptos:
-<p>
-  <img src="https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" />
-  <img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-</p>
 
 ## Favorite Stock Sectors:
  - Electric/Automated Vehicles 🔋🚙
