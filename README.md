@@ -1,7 +1,16 @@
 ## About Me
-I am a software Engineer with a background in telecommunications and DOD intelligence. Both industries exposed me to high paced work environments while working on teams which shaped me for my journey as a developer. They also helped show me that technology, and it's capabilities, is what I am most passionate about.
 
-As I progress through life I realize the importance/value of working in an industry that is both personally fulfilling and surrounds you with people who are equally as driven. I am excited to work with and learn from other programmers while building products that positively impact the masses. 
+All year I have dedicated myself to learning the skills and practices you will see listed here on my profile. I have been loving the process and appreciating the challenge because I know how rewarding the other end of this will be. I am most looking forward to the industry compensating me with my own time back. Once I am comfortable in the first position you put me in I will spend that time engaging in the following:
+
+# Interests
+ - Investing 📈
+ - MMA 🥊
+ - Hiking 🥾⛰
+ - Restaurant Focused Domestic Travel 🌮
+ - Hiking 🥾⛰
+ - Bowling 🎳
+ - True Crime Documentaries 🍿
+ 
 <br>
 <a href="mailto:mcgreekendall@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a> 
 <a href="https://www.linkedin.com/in/kendall-mcgree/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
@@ -41,6 +50,15 @@ As I progress through life I realize the importance/value of working in an indus
   <img src="https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white" />
   <img src ="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
 </p>
+
+## Favortie Stock Sectors:
+ - Electric/Automated Vehicles 🔋🚙
+ - Fintech 🔐
+ - Green Energy ♻️♻
+ - Crypto 🔐
+ - Real Estate 2.0 🏠
+ - Big Data/Cloud Services ☁️
+ - Biotech 👩🏼‍🔬
 
 
 ## Github Stats:
