@@ -1,6 +1,6 @@
 ## About Me
 
-All year I have dedicated myself to learning the skills and practices you will see listed here on my profile. I have been loving the process and appreciating the challenge because I know how rewarding the other end of this will be. The biggest compensationg being my own time back. Once I am settled in my first position I will spend that time getting back into in the following interests:
+All year I have dedicated myself to learning the skills and practices you will see listed here on my profile. I have been loving the process and appreciating the challenge because I know how rewarding the other end of this will be. The biggest compensation being my own time back. Once I am settled in my first position I will spend that time getting back into in the following interests:
 
  - Investing 📈
  - MMA 🥊
