@@ -1,10 +1,13 @@
 ## About Me
 
-All year I have dedicated myself to learning the skills and practices you will see listed here on my profile. I have been loving the process and appreciating the challenge because I know how rewarding the other end of this will be. The biggest compensation being my own time back. Once I am settled in my first position I will spend that time getting back into in the following interests:
+My name is Kendall McGree (He/Him) and I am set to graduate from the Turing School Of Software and Design in late September. Like many other people during the pandemic I spent time reflecting on what I am most passionate about and considered which industries would be the most fulfilling. During this period I realized what my current role as a Cell Tower Lead lacked despite the many perks it provided. I was no longer being challenged and that is an important aspect of my professional life.
 
+The career I enjoyed the most involved both technology and daily challenges which I appreciated because it made me feel like I was consistently growing. I have always been an ambitious person that enjoyed solving problems so pivoting to software development has proven to be the best next step for me. The more I learn the more interested I become with the industry so coding has quickly become my newest hobby. 
+
+When I do decide to take breaks from the the code I can be found engaging in any of the following interests: 
  - Investing 📈
  - MMA 🥊
- - Hiking 🥾⛰
+ - Slow Hikes 🥾⛰
  - Restaurant Focused Domestic Travel 🌮
  - Bowling 🎳
  - True Crime Documentaries 🍿
