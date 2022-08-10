@@ -51,9 +51,11 @@ When I do decide to take breaks from the the code I can be found engaging in any
  - Fintech 🔐
  - Green Energy ♻️
  - Real Estate 2.0 🏠
+ - Sportsbetting/Online Gaming 🎰
  - Crypto 🔐
  - Big Data/Cloud Services ☁️
  - Biotech 👩🏼‍🔬
+ 
 
 
 ## Github Stats:
