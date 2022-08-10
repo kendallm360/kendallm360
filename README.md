@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Kendall McGree (He/Him) and I am set to graduate from the Turing School Of Software and Design in late September. Like many other people during the pandemic I spent time reflecting on what I am most passionate about and considered which industries would be the most fulfilling. During this period I realized what my current role as a Cell Tower Lead lacked despite the many perks it provided. I was no longer being challenged and that is an important aspect of my professional life.
+My name is Kendall McGree (He/Him) and I am set to graduate from the Turing School Of Software and Design in late September. Like many other people during the pandemic I spent time reflecting on what I am most passionate about and considered which industries would be the most fulfilling. During this period I realized what my role as a Cell Tower Lead lacked despite the many perks it provided. I was no longer being challenged and that is an important aspect of my professional life.
 
 The career I enjoyed the most involved both technology and daily challenges which I appreciated because it made me feel like I was consistently growing. I have always been an ambitious person that enjoyed solving problems so pivoting to software development has proven to be the best next step for me. The more I learn the more interested I become with the industry so coding has quickly become my newest hobby. 
 
