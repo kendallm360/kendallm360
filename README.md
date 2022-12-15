@@ -1,10 +1,9 @@
 ## About Me
 
-My name is Kendall McGree (He/Him) and I am set to graduate from the Turing School Of Software and Design in late September. Like many other people during the pandemic I spent time reflecting on what I am most passionate about and considered which industries would be the most fulfilling. During this period I realized what my role as a Cell Tower Lead lacked despite the many perks it provided. I was no longer being challenged and that is an important aspect of my professional life.
+My name is Kendall McGree (He/Him) and I graduated from Turing's School Of Software and Design in late September. If you've never heard of it it is super prestigious, intense, and reputable. Im a trustworthy person so you can take my word for it. Feel free to check out my pinned projects to see the quality of student they produce.
 
-The career I enjoyed the most involved both technology and daily challenges which I appreciated because it made me feel like I was consistently growing. I have always been an ambitious person that enjoyed solving problems so pivoting to software development has proven to be the best next step for me. The more I learn the more interested I become with the industry so coding has quickly become my newest hobby. 
+Aside from being someone you can count on I'm friendly, ambitious, and an overall good time. When Im not glued to the code I can be found engaging in any of the following hobbies:
 
-When I do decide to take breaks from the the code I can be found engaging in any of the following interests: 
  - Investing 📈
  - MMA 🥊
  - Slow Hikes 🥾⛰
