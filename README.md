@@ -1,6 +1,6 @@
 ## About Me
 
-My name is Kendall McGree (He/Him) and I graduated from Turing's School Of Software and Design in late September. If you've never heard of it it is super prestigious, intense, and reputable. Im a trustworthy person so you can take my word for it. Feel free to check out my pinned projects to see the quality of student they produce.
+My name is Kendall McGree (He/Him) and I graduated from Turing's School Of Software and Design in late September. If you've never heard of Turing it is super prestigious, extremely intense, and highly reputable. Im a trustworthy person so you can take my word for it. Feel free to check out my pinned projects to see the quality of student they produce.
 
 Aside from being someone you can count on I'm friendly, ambitious, and an overall good time. When Im not glued to the code I can be found engaging in any of the following hobbies:
 
