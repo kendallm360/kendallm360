@@ -2,14 +2,14 @@
 
 Chances are I am sitting in front of my computer right now. If not you can bet I am doing one of the following:
 
- - Looking into Investment Opportunities 📈
+ - Looking into investment opportunities 📈
  - Watching MMA 🥊
- - Lifting Weights 🏋🏾
- - Hiking Slowly (sometimes barefoot) 🥾⛰
+ - Lifting weights 🏋🏾
+ - Hiking slowly (sometimes barefoot) 🥾⛰
  - Traveling for food 🌮
  - Bowling a 50 🎳
- - Watching True Crime Documentaries 🍿
- - Getting Beat In Basketball 🏀
+ - Watching true crime documentaries 🍿
+ - Getting beat in basketball 🏀
  
 <br>
 <a href="mailto:mcgreekendall@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"></a> 
