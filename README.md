@@ -1,6 +1,6 @@
 ## About Me
 
-Chances are I am sitting in front of my computer right now. If not you can bet I am doing one of the following:
+What gets me going:
 
  - Watching MMA 🥊
  - Lifting weights 🏋🏾
