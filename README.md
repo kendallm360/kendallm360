@@ -2,10 +2,9 @@
 
 Chances are I am sitting in front of my computer right now. If not you can bet I am doing one of the following:
 
- - Looking into investment opportunities 📈
  - Watching MMA 🥊
  - Lifting weights 🏋🏾
- - Hiking slowly (sometimes barefoot) 🥾⛰
+ - Hiking slowly 🥾⛰
  - Traveling for food 🌮
  - Bowling a 50 🎳
  - Watching true crime documentaries 🍿
